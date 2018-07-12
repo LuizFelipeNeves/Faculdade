@@ -1,2 +1,2 @@
 # Scilab
- <img width="953" height="468.5" src="https://raw.githubusercontent.com/LuizFelipeNeves/E-Lavanderia-WP/master/src/imagens/1.PNG">
+ <img width="953" height="468.5" src="https://raw.githubusercontent.com/LuizFelipeNeves/Scilab/master/Técnicas computacionais/Exercícios/1/1.PNG">
